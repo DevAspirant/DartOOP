@@ -1,4 +1,5 @@
 // Genric : a class that can use multiple types
+// Genric common problem : code complexity increases
 void main() {
  List<int> numbers = new List<int>();
  numbers.addAll([1,2,3,4]);
